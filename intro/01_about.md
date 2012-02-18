@@ -10,7 +10,7 @@
 * Open Source minded
 * Open Standards evangelists
 
-!SLIDE bullets incemental
+!SLIDE bullets incremental
 # Cloud APIs #
 
 * ... utilize on-demand premise
@@ -153,3 +153,47 @@ fog, cloudfiles, cloudservers, aws,...
 * More drivers!
 * CIMI standard
 * Aeolus project!
+
+!SLIDE bullets
+# We &hearts; cloud #
+
+* Cheap
+* Unlimited bandwidth throughput
+* Easy to deploy large app
+
+!SLIDE center
+# This...can happen #
+<img src="amazon_outage.png" alt=''/>
+
+!SLIDE center
+## and this is the result ##
+<img src="screwed.jpg" alt=''/>
+
+!SLIDE center
+<img src="aeolus-logo.png" alt=''/>
+
+# <b>Aeolus Project</b>
+<span class="subtitle">Manage Your Cloud Deployments with Ease</span>
+
+
+!SLIDE bullets
+# <b> Aeolus Project </b>#
+* <span class="smaller">Released under ASL 2.0</span>
+* <span class="smaller">Support for multiple public/private cloud options</span>
+* <span class="smaller">Ability to create equivalent images across multiple cloud providers</span>
+* <span class="smaller">Ability to manage lifecycle/monitor instances across multiple clouds at the same time (cuts dependency on a single provider)</span>
+
+!SLIDE center
+## Aeolus Project - Top view
+<img src="concept_aeolus_high_level.png" alt=''/>
+
+!SLIDE center
+# Aeolus && Subprojects
+<img src="aeolusProjectLatest.png" alt=''/>
+
+!SLIDE center
+# <b>Q</b> & <b>A</b> #
+
+!SLIDE center
+# <b> Thanks for the attention</b>
+<span class="subtitle>@mfojtik && @fvollero</span>
